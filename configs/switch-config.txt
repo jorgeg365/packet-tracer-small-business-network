@@ -1,0 +1,19 @@
+Switch design notes
+
+VLANs
+
+- VLAN 10: HR
+- VLAN 20: IT
+- VLAN 30: Sales
+- VLAN 40: Employee WiFi
+- VLAN 50: Guest WiFi
+
+Ports
+
+- Fa0/1: trunk to router
+- Fa0/2: HR PC
+- Fa0/3: IT PC
+- Fa0/4: Sales PC
+- Fa0/5: internal server
+- Fa0/6: employee AP
+- Fa0/7: guest AP
