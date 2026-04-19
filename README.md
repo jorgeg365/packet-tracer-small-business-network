@@ -97,18 +97,6 @@ Use ping and the browser to verify the full path:
 - DNS name resolves
 - Web page loads successfully
 
-
-## Screenshot guide
-
-Use these images in order if you want to present the project clearly:
-
-1. [Project topology screenshot](screenshots/Screenshot%202026-04-18%20165810.png)
-2. [DHCP pools on the server](screenshots/Screenshot%202026-04-18%20165718.png)
-3. [Client IP / DHCP troubleshooting](screenshots/Screenshot%202026-04-18%20162048.png)
-4. [Ping tests from the guest VLAN](screenshots/Screenshot%202026-04-18%20152553.png)
-5. [DNS lookup failure during troubleshooting](screenshots/Screenshot%202026-04-18%20171312.png)
-6. [Web page working through DNS](screenshots/Screenshot%202026-04-18%20170947.png)
-
 ## Summary
 
 This project is a realistic small business Packet Tracer lab that demonstrates segmentation, wireless networking, DHCP, NAT, DNS, and basic access control.
