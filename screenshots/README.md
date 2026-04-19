@@ -1,6 +1,6 @@
 # Screenshots
 
-Use this folder for Packet Tracer screenshots that document the build, troubleshooting, and final verification.
+This folder contains the Packet Tracer screenshots captured on 2026-04-18 and used to document the network build, troubleshooting, and final verification.
 
 Suggested screenshots:
 
