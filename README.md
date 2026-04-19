@@ -28,7 +28,7 @@ flowchart LR
 	Switch --- InternalServer
 ```
 
-![Project topology screenshot](screenshots/Screenshot%202026-04-18%20165810.png)
+![Project topology screenshot](screenshots/topologyimage.png)
 
 ## What this network does
 
