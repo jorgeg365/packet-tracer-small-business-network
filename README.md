@@ -96,7 +96,6 @@ Use ping and the browser to verify the full path:
 - DNS name resolves
 - Web page loads successfully
 
-Troubleshooting was part of the lab too. The DHCP failure state is captured in [this screenshot](screenshots/Screenshot%202026-04-18%20162048.png), and a DNS lookup failure is shown in [this screenshot](screenshots/Screenshot%202026-04-18%20171312.png).
 
 ## Screenshot guide
 
