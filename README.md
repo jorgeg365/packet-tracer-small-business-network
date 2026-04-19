@@ -84,7 +84,7 @@ Connect the main router to the ISP router, then connect the ISP router to the IS
 
 ### 7. Add DNS and web hosting
 
-Turn on HTTP and DNS on the ISP-side server, then add a DNS record like `jorgetestsite.com` pointing to the web server IP. The final browser test is shown in [this screenshot](screenshots/Screenshot%202026-04-18%20170947.png).
+Turn on HTTP and DNS on the ISP-side server, then add a DNS record like `jorgetestsite.com` pointing to the web server IP. The final browser test is shown in [this screenshot](screenshots/Screenshot 2026-04-18 171312.png).
 
 ### 8. Verify the lab
 
