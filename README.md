@@ -64,7 +64,8 @@ Also configure the NAT outside interface toward the ISP router.
 
 ### 4. Configure DHCP on the server
 
-Use the internal server for DHCP pools. A good example is shown in [this screenshot](screenshots/Screenshot%202026-04-18%20165718.png).
+Use the internal server for DHCP pools. A good example is shown in this screenshot.
+<img width="1331" height="877" alt="image" src="https://github.com/user-attachments/assets/461c5ed2-df72-433e-ac4a-890bc9ac2c9d" />
 
 Pools used in the project:
 
