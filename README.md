@@ -28,6 +28,8 @@ flowchart LR
 	Switch --- InternalServer
 ```
 
+![Project topology screenshot](screenshots/Screenshot%202026-04-18%20165810.png)
+
 ## What this network does
 
 - Segments departments with VLANs
@@ -99,11 +101,12 @@ Troubleshooting was part of the lab too. The DHCP failure state is captured in [
 
 Use these images in order if you want to present the project clearly:
 
-1. [DHCP pools on the server](screenshots/Screenshot%202026-04-18%20165718.png)
-2. [Client IP / DHCP troubleshooting](screenshots/Screenshot%202026-04-18%20162048.png)
-3. [Ping tests from the guest VLAN](screenshots/Screenshot%202026-04-18%20152553.png)
-4. [DNS lookup failure during troubleshooting](screenshots/Screenshot%202026-04-18%20171312.png)
-5. [Web page working through DNS](screenshots/Screenshot%202026-04-18%20170947.png)
+1. [Project topology screenshot](screenshots/Screenshot%202026-04-18%20165810.png)
+2. [DHCP pools on the server](screenshots/Screenshot%202026-04-18%20165718.png)
+3. [Client IP / DHCP troubleshooting](screenshots/Screenshot%202026-04-18%20162048.png)
+4. [Ping tests from the guest VLAN](screenshots/Screenshot%202026-04-18%20152553.png)
+5. [DNS lookup failure during troubleshooting](screenshots/Screenshot%202026-04-18%20171312.png)
+6. [Web page working through DNS](screenshots/Screenshot%202026-04-18%20170947.png)
 
 ## Summary
 
